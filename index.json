@@ -1,0 +1,24 @@
+[
+  {
+    "name": "MangaGeko",
+    "id": 100203059,
+    "baseUrl": "https://www.mgeko.cc",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://www.mgeko.cc",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/itsyaba/mangayomi-extensions/repo/javascript/manga/src/en/mangageko.js",
+    "apiUrl": "",
+    "version": "0.1.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
+  }
+]
