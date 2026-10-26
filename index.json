@@ -218,5 +218,27 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": ""
+  },
+  {
+    "name": "MangaHere",
+    "id": 100203069,
+    "baseUrl": "http://www.mangahere.cc",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/manga/src/en/mangahere/icon.png",
+    "dateFormat": "MMM dd,yyyy",
+    "dateFormatLocale": "en",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/itsyaba/mangayomi-extensions/repo/dart/manga/src/en/mangahere/mangahere.dart",
+    "apiUrl": "",
+    "version": "0.0.9",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 0,
+    "notes": ""
   }
 ]

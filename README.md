@@ -20,9 +20,14 @@ https://raw.githubusercontent.com/itsyaba/mangayomi-extensions/repo/index.json
 | VoyceMe | https://www.voyce.me |
 | Asura Scans | https://asurascans.com |
 | MangaDex (English) | https://mangadex.org |
+| MangaHere | http://www.mangahere.cc |
 
 Asura Scans and MangaDex are m2k3a's extensions with one change: their `getHeaders()` no longer reads
 source settings, which makes installing them fail silently on Mangayomi 0.9.9
 (fixed upstream in kodjodevf/mangayomi#1093). Once that fix ships, use m2k3a's versions instead.
+
+MangaHere is m2k3a's extension with a `headers` getter added. Without it the app never sends a
+`Referer`, so covers and pages get 403 from MangaHere's image CDN. Proposed upstream in
+m2k3a/mangayomi-extensions#80; once that ships, use m2k3a's version instead.
 
 MangaGeko is also proposed upstream in m2k3a/mangayomi-extensions#73.
