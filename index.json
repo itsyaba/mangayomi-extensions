@@ -188,7 +188,7 @@
     "hasCloudflare": false,
     "sourceCodeUrl": "https://raw.githubusercontent.com/itsyaba/mangayomi-extensions/repo/javascript/manga/src/en/asurascans.js",
     "apiUrl": "https://api.asurascans.com",
-    "version": "0.2.14",
+    "version": "0.2.15",
     "isManga": true,
     "itemType": 0,
     "isFullData": false,
